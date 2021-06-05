@@ -1,0 +1,29 @@
+
+i
+java:S1223	"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8º ’¼/
+R
+java:S2209h"5Change this instance-reference to a static reference.(ÔÈš‘8«¹Ÿ½/
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8«¹Ÿ½/
+S
+java:S3252h"6Use static access with "java.lang.Thread" for "sleep".(ÔÈš‘8«¹Ÿ½/
+c
+java:S2142i"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8«¹Ÿ½/
+E
+java:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·Ô¤¼/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+E
+java:S1148j"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«¹Ÿ½/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ªÊŠ³úÿÿÿÿ8÷ğŞ¼/
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(äãŒÁùÿÿÿÿ8«¹Ÿ½/
+c
+java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8·Ô¤¼/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(†·Üãşÿÿÿÿ8ôô‡½/
+e
+java:S35517"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8½¡Ş¼/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øºµ©
+g
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(ğªÛÅşÿÿÿÿ8¸¤Ö¼/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(†·Üãşÿÿÿÿ8ƒäŒ½/
+b
+java:S2134-"@Don't extend "Thread", since the "run" method is not overridden.(ğªÛÅşÿÿÿÿ8¨ŞÕ¼/
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(æ¾¥©8êÇ‘¾/

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3273db6-31ea-46d5-b0ed-201a42bafcbf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HTTPServer/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\JavaMultiThreadandConcurrency\src\ImageProcessing\resource</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/ThreadIntro/main.java" />
+        <option value="$PROJECT_DIR$/src/ThreadInheritance/CaseStudy/main.java" />
+        <option value="$PROJECT_DIR$/src/ThreadInheritance/main.java" />
+        <option value="$PROJECT_DIR$/src/ThreadTermination/main.java" />
+        <option value="$PROJECT_DIR$/src/ThreadCoordination/main.java" />
+        <option value="$PROJECT_DIR$/src/ImageProcessing/main.java" />
+        <option value="$PROJECT_DIR$/src/HTTPServer/main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="width" value="1946" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaMultiThreadandConcurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaMultiThreadandConcurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaMultiThreadandConcurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaMultiThreadandConcurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaMultiThreadandConcurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaMultiThreadandConcurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaMultiThreadandConcurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaMultiThreadandConcurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ImageProcessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaMultiThreadandConcurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaMultiThreadandConcurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadTermination" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622913930787" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaMultiThreadandConcurrency\resource" />
+      <recent name="E:\JavaMultiThreadandConcurrency" />
+      <recent name="E:\JavaMultiThreadandConcurrency\src\ImageProcessing\resource" />
+      <recent name="E:\JavaMultiThreadandConcurrency\src\ImageProcessing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadIntro.main" />
+      <module name="JavaMultiThreadandConcurrency" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ImageProcessing.main" />
+      <module name="JavaMultiThreadandConcurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreadInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main3" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3273db6-31ea-46d5-b0ed-201a42bafcbf" name="Default Changelist" comment="" />
+      <created>1622806860716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622806860716</updated>
+      <workItem from="1622806866098" duration="29126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29126000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="0" width="1297" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29749393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.3285968" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.053956833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6447602" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32955465" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24939272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32955465" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ThreadInheritance/main.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ThreadInheritance/main.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="threads.get(4)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>threads.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="326" selection-start-line="326" selection-end-line="326" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="1050" selection-start-line="1050" selection-end-line="1050" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/many-flowers.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out-many-flowers.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/war_and_peace.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImageProcessing/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3929#3930#0" expanded="true" />
+            <element signature="e#4018#4019#0" expanded="true" />
+            <element signature="e#4106#4107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadCoordination/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#2579#2580#0" expanded="true" />
+            <element signature="e#2657#2658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTermination/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadInheritance/CaseStudy/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Vault#0;class#main#0" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="class#HackerThread#0;class#main#0" />
+            <element signature="class#AssendingHacjer#0;class#main#0" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1610#1611#0" expanded="true" />
+            <element signature="class#PoliceThread#0;class#main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadInheritance/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1269#1270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadIntro/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HTTPServer/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
