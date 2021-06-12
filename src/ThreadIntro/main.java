@@ -17,7 +17,7 @@ public class main {
         thread.setUncaughtExceptionHandler(new Thread.UncaughtExceptionHandler() {
             @Override
             public void uncaughtException(Thread t, Throwable e) {
-                System.out.println("A critical error happened in trhead"+t.getName()
+                System.out.println("AtomicInteger critical error happened in trhead"+t.getName()
                 +"the error is "+e);
             }
         });

@@ -11,7 +11,7 @@ import java.util.StringJoiner;
 
 public class MainApplication {
     private static final int N = 10;
-    private static final String INPUT_FILE = "./resource/matrices";
+    private static final String INPUT_FILE = "./resource/matrices.txt";
     private static final String OUT_FILE = "./resource/matrices_resoult.txt";
 
     public static void main(String[] args) throws IOException {

@@ -83,11 +83,11 @@ public class Main {
 
         public void takeRoadA() throws InterruptedException {
             synchronized (roadA){
-                System.out.println("Road A is locked by thread "+ Thread.currentThread().getName());
+                System.out.println("Road AtomicInteger is locked by thread "+ Thread.currentThread().getName());
                 Thread.sleep(1000);
 
                 synchronized (roadB){
-                    System.out.println("Train is passing though road A");
+                    System.out.println("Train is passing though road AtomicInteger");
                 }
             }
         }

@@ -9,7 +9,7 @@ import java.util.StringJoiner;
 public class MatricesGenerator {
     private static final int N = 10;
     private static final int NUMBER_OF_METRIX_PAIRS = 100000;
-    private static final String OUTPUT_FILE = "./resource/matrices";
+    private static final String OUTPUT_FILE = "./resource/matrices.txt";
 
     public static void main(String[] args) throws IOException {
         File file = new File(OUTPUT_FILE);
